@@ -1,11 +1,81 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<!-- GitHub Profile README -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">#!/usr/bin/env welcome</h2>
+<h1 align="center">I'm Alex Beigel</h1>
+<h3 align="center">🚀 DevOps-Focused Software Engineer 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Systems+Thinker+⚙️;CI/CD+Enthusiast+🔁;Automation+Architect+🤖;Infinitely+Curious+🧠&center=true&width=500&height=45&font=Fira%20Code&pause=1000&color=30F7A5" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChocolateXmas&show_icons=true&theme=dracula&locale=en" alt="ChocolateXmas" /></p>
+## 🔧 About Me
+
+With a deep-rooted passion for inventing, planning, and building, I bring over **8 years of development experience** and a relentless curiosity for systems thinking and innovation.  
+
+Currently, I focus on combining **programming** and **DevOps**, working daily with:
+- 🐧 **Linux**
+- 🐍 **Python**
+- 🔧 **Bash**
+- 🐳 **Docker**
+- 🛠️ **CI/CD**
+- 🗄️ **Database Integration & Secrets Management**
+
+I thrive in environments that demand **rapid problem solving**, **automation**, and **secure, scalable solutions**.
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <a href="https://python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://gnu.org/"><img src="https://skillicons.dev/icons?i=bash" /></a>
+  <a href="https://java.com/"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://linux.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>
+</p>
+<p align="center">
+  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
+  <a href="https://docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" /></a>
+</p>
+
+---
+
+## 🚧 What I’m Working On
+
+- Building production-ready, Dockerized apps
+- Mastering **CI/CD pipelines** & infrastructure-as-code
+- Diving deeper into **Kubernetes**, **Helm**, and **Jenkins**
+- Architecting reliable, testable, and secure deployments
+
+---
+
+## 🧠 Learning Philosophy & Mindset
+
+> “Learn fast. Think in systems. Automate everything you can.”  
+
+I believe in combining **strong fundamentals** with **creative problem solving**, and I embrace new tech with speed and confidence. My curiosity and adaptability fuel every challenge I take on.
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/777alex-beigel777/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocolateXmas&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=chocolateXmas&show_icons=true&theme=tokyonight&hide_rank=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chocolateXmas&theme=tokyonight" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chocolateXmas&theme=github-compact" />
+</p>
