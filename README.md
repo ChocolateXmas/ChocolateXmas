@@ -71,9 +71,11 @@ I believe in combining **strong fundamentals** with **creative problem solving**
 ---
 
 <p align="center">
-  <img src="./profile/top-langs.svg" height="165" />
-  <img src="./profile/stats.svg" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chocolateXmas&theme=tokyonight" height="165">
+  <img src="./profile/top-langs.svg" width="400" />
+  <br>
+  <img src="./profile/stats.svg" width="400" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chocolateXmas&theme=tokyonight" width="400" />
 </p>
 
 <p align="center">
