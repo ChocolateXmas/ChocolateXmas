@@ -71,8 +71,8 @@ I believe in combining **strong fundamentals** with **creative problem solving**
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocolateXmas&layout=compact&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api?username=chocolateXmas&show_icons=true&theme=tokyonight&hide_rank=true" height="165">
+  <img src="./profile/top-langs.svg" height="165" />
+  <img src="./profile/stats.svg" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=chocolateXmas&theme=tokyonight" height="165">
 </p>
 
