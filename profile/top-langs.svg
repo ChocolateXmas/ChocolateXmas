@@ -180,7 +180,7 @@
           data-testid="lang-progress"
           x="136.21"
           y="0"
-          width="41.42"
+          width="41.41"
           height="8"
           fill="#00B4AB"
         />
@@ -230,7 +230,7 @@
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#00B4AB" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Dart 16.57%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Dart 16.56%</text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 900ms">
